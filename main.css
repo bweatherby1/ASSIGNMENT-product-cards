@@ -1,4 +1,7 @@
-
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: smaller;
+}
 .container {
   display: flex;
   marign: 0 auto;
