@@ -4,23 +4,52 @@
   marign: 0 auto;
   width: 100%;
   height: 100%;
-  background-color: black;  
+  background-color: gray;  
   flex-wrap: wrap;
+  
 }
 .product {
   margin: 10px;
   width: 225px;
-  height: 350px;
-  border: red 5px dashed;
+  height: 530px;
+  border: white 5px solid;
   text-align: center;
-
+background-color: blue;
 }
 h2 {
-  border: lightblue solid 1px;
+  border: lightblue dashed 1px;
   text-align: center;
-  color: red;
+  color: black;
+  background-color: white;
 }
 img {
   width: 100px;
   height: 100px;
+}
+p {
+  color: black;
+}
+footer {
+  color: red;
+  background-color: black;
+}
+.here {
+  color: lime;
+  background-color: black;
+}
+
+h3 {
+  background-color: white;
+}
+h4 {
+  background-color: white;
+}
+p.spc {
+  text-align: left;
+}
+p.prc {
+  text-align: left;
+}
+p#no.here{
+  color: red;
 }
